@@ -5,6 +5,7 @@ function App(){
   return(
   <>
 <Navbar/>
+<h1>hello neeraj bhaiya</h1>
   </>
 );
   
